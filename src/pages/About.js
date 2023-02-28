@@ -81,7 +81,7 @@ export default function About() {
           <div className="top-section">
             <div className="left">
               <p className="about__subheading">
-                Hi, I am <span>Akhil Gothi</span>
+                Hello, I am <span>Akhil Gothi</span>
               </p>
               <h2 className="about__heading">About Our Mango Farm</h2>
               <div className="about__info">
@@ -99,9 +99,9 @@ export default function About() {
                   <br />
                   <br />
                   We are proud to be a family-owned and operated farm that has
-                  been growing mangoes for over 27 years. We are passionate
-                  about what we do and are dedicated to providing the best
-                  possible mangoes to our customers.
+                  been growing mangoes since 27 years. We are passionate about
+                  what we do and are dedicated to providing the best possible
+                  mangoes to our customers.
                 </PText>
               </div>
               {/* <Button btnText="Download CV" btnLink="#" /> */}
@@ -138,7 +138,7 @@ export default function About() {
               <AboutInfoItem
                 title="Quality :"
                 items={[
-                  'we gurranted Ensuring that the mangoes are of high quality and are fresh.',
+                  'We gurranted ensuring that the mangoes of high quality and fresh.',
                 ]}
               />
               {/* <AboutInfoItem
@@ -156,7 +156,7 @@ export default function About() {
               <AboutInfoItem
                 title="Packaging :"
                 items={[
-                  'We provide packaging services to protect the fruit from damage during transportation and make it more presentable.',
+                  'We provide packaging services to preserve the fruits to avoid the damage during transportation and make it more presentable.',
                 ]}
               />
               {/* <AboutInfoItem
