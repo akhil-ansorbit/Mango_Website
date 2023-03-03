@@ -31,7 +31,7 @@ const projects = [
   {
     id: uuidv4(),
     name: 'Mango Salsa',
-    desc: "This sweet and spicy mango salsa is the perfect topping for grilled fish, chicken, or tacos. Made with fresh mangoes, red onion, jalapeño, lime juice, and cilantro, it's packed with flavor and sure to be a crowd-pleaser.",
+    desc: "This sweet and spicy mango salsa is the perfect topping for grilled. Made with fresh mangoes, red onion, jalapeño, lime juice, and cilantro, it's packed with flavor and sure to be a crowd-pleaser.",
     img: MangoSalsa,
   },
   {
